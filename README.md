@@ -1,2 +1,2 @@
 # projeto-academia-nodejs-backend
-backend do projeto-academia-nodejs
+Backend do projeto-academia-nodejs, com rotas e códigos necessários para funcionamento do Front.
